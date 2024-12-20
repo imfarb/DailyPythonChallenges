@@ -32,7 +32,7 @@ A simple Python-based tool to retrieve information about an IP address using the
 All the required Python libraries are listed in the requirements.txt file. Install them using:
 
 ````bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 
 ````
@@ -41,4 +41,4 @@ pip install -r requirements.txt```
 
 Make sure you have Python installed. Run the script using:
 ```bash
-python ip_finder.py```
+python ip_finder.py
