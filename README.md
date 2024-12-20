@@ -4,3 +4,4 @@ A collection of daily Python challenges designed to enhance coding skills, solve
 
 - [Day 01 - Scientific Calculator](Day%2001%20-%20Scientific%20Calculator/)
 - [Day 02 - Currency Converter](Day%2002%20-%20Currency%20Converter/)
+- [Day 03 - IP Information Finder](Day%2003%20-%20IP%20Information%20Finder/)
