@@ -34,9 +34,11 @@ All the required Python libraries are listed in the requirements.txt file. Insta
 ````bash
 pip install -r requirements.txt```
 
+
+````
+
 ### **Run the Script**
 
 Make sure you have Python installed. Run the script using:
 ```bash
 python ip_finder.py```
-````
